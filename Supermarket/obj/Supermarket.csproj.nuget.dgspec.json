@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rahindm/VS_CODE/Asp.net Supermarket/Supermarket/Supermarket.csproj": {}
+    "/Users/rahindm/Desktop/Asp.net Supermarket/Supermarket/Supermarket.csproj": {}
   },
   "projects": {
-    "/Users/rahindm/VS_CODE/Asp.net Supermarket/Supermarket/Supermarket.csproj": {
+    "/Users/rahindm/Desktop/Asp.net Supermarket/Supermarket/Supermarket.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rahindm/VS_CODE/Asp.net Supermarket/Supermarket/Supermarket.csproj",
+        "projectUniqueName": "/Users/rahindm/Desktop/Asp.net Supermarket/Supermarket/Supermarket.csproj",
         "projectName": "Supermarket",
-        "projectPath": "/Users/rahindm/VS_CODE/Asp.net Supermarket/Supermarket/Supermarket.csproj",
+        "projectPath": "/Users/rahindm/Desktop/Asp.net Supermarket/Supermarket/Supermarket.csproj",
         "packagesPath": "/Users/rahindm/.nuget/packages/",
-        "outputPath": "/Users/rahindm/VS_CODE/Asp.net Supermarket/Supermarket/obj/",
+        "outputPath": "/Users/rahindm/Desktop/Asp.net Supermarket/Supermarket/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rahindm/.nuget/NuGet/NuGet.Config"
